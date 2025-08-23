@@ -22,5 +22,11 @@ public class UserBookingService {
         });
     }
 
+    public Boolean loginUser(){
+        
+    }
 
+    public Boolean signUp(User user){
+        
+    }
 }
